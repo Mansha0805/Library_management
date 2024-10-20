@@ -24,8 +24,7 @@ pip install pillow
 
 ## Screenshots
 
-**Login Screen**
-![](screenshots/1.jpg)
+
 
 **Home Screen**
 ![image](https://github.com/user-attachments/assets/377edbff-77e5-4faa-9463-b0102c603df7)
