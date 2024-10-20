@@ -35,5 +35,5 @@ pip install pillow
 ![image](https://github.com/user-attachments/assets/637d8025-e28e-4112-8acb-511514f6086f)
 
 **Student Data**
-![](screenshots/5.jpg)
-![](screenshots/6.jpg)
+![image](https://github.com/user-attachments/assets/b2cc018e-5f53-4d31-abf7-500360cedc26)
+
