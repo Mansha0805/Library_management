@@ -31,8 +31,7 @@ pip install pillow
 ![](screenshots/2.jpg)
 
 **Book Data**
-![](screenshots/3.jpg)
-![](screenshots/4.jpg)
+![image](https://github.com/user-attachments/assets/637d8025-e28e-4112-8acb-511514f6086f)
 
 **Student Data**
 ![](screenshots/5.jpg)
