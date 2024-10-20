@@ -28,7 +28,8 @@ pip install pillow
 ![](screenshots/1.jpg)
 
 **Home Screen**
-![](screenshots/2.jpg)
+![image](https://github.com/user-attachments/assets/377edbff-77e5-4faa-9463-b0102c603df7)
+
 
 **Book Data**
 ![image](https://github.com/user-attachments/assets/637d8025-e28e-4112-8acb-511514f6086f)
