@@ -54,7 +54,7 @@ A desktop **Library Management System** built with Python, Tkinter, and SQLite. 
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/<your-username>/Library-Management-System.git
+   git clone https://github.com/Mansha0805/Library-Management-System.git
    cd Library-Management-System
    ```
 
